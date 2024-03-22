@@ -260,7 +260,7 @@ class CustomRelation extends Relation
                 ->whereIn($modelKeyName, $this->query->select($modelKeyName))
                 ->delete();
         } else {
-            parent::delete($id);
+            parent::delete($id); // @phpstan-ignore-line
         }
     }
 
