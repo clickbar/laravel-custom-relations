@@ -1,9 +1,9 @@
 # Laravel Custom Relations
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/53199186-ahawlitschek/laravel-power-relations.svg?style=flat-square)](https://packagist.org/packages/53199186-ahawlitschek/laravel-power-relations)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/53199186-ahawlitschek/laravel-power-relations/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/53199186-ahawlitschek/laravel-power-relations/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/53199186-ahawlitschek/laravel-power-relations/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/53199186-ahawlitschek/laravel-power-relations/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/53199186-ahawlitschek/laravel-power-relations.svg?style=flat-square)](https://packagist.org/packages/53199186-ahawlitschek/laravel-power-relations)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/clickbar/laravel-custom-relations.svg?style=flat-square)](https://packagist.org/packages/clickbar/laravel-custom-relations)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/clickbar/laravel-custom-relations/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/clickbar/laravel-custom-relations/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/clickbar/laravel-custom-relations/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/clickbar/laravel-custom-relations/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/clickbar/laravel-custom-relations.svg?style=flat-square)](https://packagist.org/packages/clickbar/laravel-custom-relations)
 
 Laravel provides some pretty good relations from scratch. If those relations do not fit the need, the community has provided a lot of other relation packages.
 Especially [staudenmeir](https://github.com/staudenmeir) did a lot if nice work on that end. However, in our projects we encountered the need of some really custom relations that could easily be expressed with an eloquent query, but not with default relations.
