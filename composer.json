@@ -72,7 +72,7 @@
     "extra": {
         "laravel": {
             "providers": [
-              "LaravelCustomRelationsServiceProvider"
+              "Clickbar\\LaravelCustomRelations\\LaravelCustomRelationsServiceProvider"
             ]
         }
     },
